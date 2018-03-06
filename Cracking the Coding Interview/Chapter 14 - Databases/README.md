@@ -66,3 +66,7 @@ ORDER BY C.NumStudents DESC
 
 ## Large Database Design
 *NEED TO DENORMALIZE DATA**
+
+## MORE
+Where is filtering before the group by, and and having filters after the group
+by
